@@ -1,4 +1,1 @@
-# [index](index.html)
-
-* [HTML](https://webmural.com/html)
-* [CSS](https://webmural.com/css)
+## [hyperwobble](index.html) [story](https://p9e.page/wobble)
