@@ -1,7 +1,7 @@
-.hip { font: max(3vw, 20pt)/1.2 sans-serif }
+.hip { font: max(3vw, 20pt)/1.618 sans-serif }
 .lip { display: contents }
 .bit { font: 400 2em sans-serif }
-.day {  }
+.sax { text-underline-offset: .5ex }
 .nip { overflow-wrap:anywhere }
 .pad { padding: 5vmax }
 .nap { font-weight: lighter }
